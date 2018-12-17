@@ -6,6 +6,13 @@ This section describes the requirements of the project, the architecture that yo
 
 ### System requirements
 
+Vi satte os ned og gennemgik hvordan Hackernews var opbygget og hvilke funktionaliteter det havde og hvordan vi forventede det var bygget. Derefter kiggede vi på opgavebeskrivelsen for at få idéer til hvad vi skulle have og hvilke ting vi følte ville være fede at få med ind over.
+I forhold til opgave beskrivelsen var funktionaliterne vigtige og ikke de virsuele dele af hjemmesiden. Vi valgte derfor at priotere alle de endpoints som skulle laves og den simulition som var givet til os. Dette var det vigtigeste og første vi valgte at lave i vores projekt.
+Derefter fokuserede vi på vores database og hvordan den kunne bygges op til at være effektiv. Dette indebar at vi skulle gøre det muligt at få svartider der var lave nok til ikke at få "timed out" på vores requests. Vi ville også gøre vi ikke havde redundant data i vores database.
+Til sidst ville vi lave en hjemmeside som stadig kunne vise de forskellige posts som var blevet lagt i ned i databasen på vores forside. Vi ville gerne have vi havde noget virsuelt på vores side som varierede i forhold til den data som var blevet givet til os. 
+
+Vi valgte ikke at priotere det mere virsuele på vores side når man gik længere ind på vores hjemmeside. Vi følte ikke dette requirement var lige så stort som de andre og det ikke havde lige så stort fokus i projektet som de andre requirements. 
+
 This section should contain an elaborate description of the requirements for the project. This includes the scope of the Hackernews clone (what should it be able to do / what should it not be able to do).
 
 ### Development process
